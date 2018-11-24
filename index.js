@@ -23,7 +23,7 @@ var funkyFunction = function() {
   return function(){
     return "FUNKY!";
   }
-};
+}
 
 theFunk = funkyFunction();
 theFunk();
